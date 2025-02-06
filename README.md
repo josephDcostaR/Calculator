@@ -3,6 +3,8 @@
 Este é um projeto de, estudo da web, onde desenvolvemos uma calculadora simples desenvolvida com HTML, CSS e JavaScript.  
 A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
+Acessar na web [Calculadora](https://josephdcostar.github.io/Calculator/) 
+
 ## 🛠 Tecnologias Utilizadas
 
 - HTML
